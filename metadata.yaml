@@ -1,11 +1,16 @@
 _repo: Practical-Hand-Book-of-Gas-Oil-and-Steam-Engines-Stationary-Marine-Traction-Gas-Burners-Oil-B__56776
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56776-h/images/cover.jpg
 creator:
   author:
     agent_name: Rathbun, John B.
     gutenberg_agent_id: '49033'
     url: http://www.gutenberg.org/2009/agents/49033
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56776#Practical-Hand-Book-of-Gas-Oil-and-Steam-Engines-Stationary-Marine-Traction-Gas-Burners-Oil-B_
 gutenberg_issued: '2018-03-18'
 gutenberg_type: Text
 identifiers:
